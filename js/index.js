@@ -5,8 +5,7 @@ function addtoscreen(x){
   box.value+=x;
   if(x==='c'){
     box.value='';
-    alert(x);
-  }
+      }
 }
 
 function answer(){
