@@ -1,0 +1,22 @@
+{
+  "name": "index",
+  "homepage": "https://github.com/MrSnowNB/test5",
+  "authors": [
+    "Mr Snow <mark_snow@nbpsnj.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
